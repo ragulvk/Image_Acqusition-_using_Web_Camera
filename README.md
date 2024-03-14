@@ -26,8 +26,8 @@ Capture Video from Webcam. Use VideoCapture(0) to access the webcam and start ca
 
 ## Program:
 ``` Python
-### Developed By:VARSHA AJITH
-### Register No:212221230118
+### Developed By:RAGUL  VK
+### Register No:212221240043
 
 ## i) Write the frame as JPG file
 
